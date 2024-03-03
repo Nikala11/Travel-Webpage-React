@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import './navbar.css'
 // Import React-icons
-import { MdOutlineTravelExplore } from 'react-icons/md';
 import { AiFillCloseCircle } from 'react-icons/ai';
 import { TbGridDots } from 'react-icons/tb';
+import { SlPlane } from "react-icons/sl";
 
 const Navbar = () => {
     const [active, setActive] = useState('navBar');
@@ -21,7 +21,7 @@ const Navbar = () => {
             <header className="header flex">
                 <div className="logoDiv">
                     <button className="logo flex">
-                        <h1><MdOutlineTravelExplore className="icon"/> Travel.</h1>
+                        <h1><SlPlane className="icon"/> Travel.</h1>
                     </button>
                 </div>
                 <div className={active}>
