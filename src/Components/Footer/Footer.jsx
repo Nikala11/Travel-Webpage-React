@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import './footer.css'
 // Import video
-import video2 from '../../Assets/video2.mp4'
+import video2 from '../../Assets/Videos/video2.mp4'
 // Import React-icons
 import { FiSend } from 'react-icons/fi'
 import { MdOutlineTravelExplore } from 'react-icons/md'

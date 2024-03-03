@@ -1,13 +1,13 @@
 // Import images
-import img1 from './Assets/img1.jpg'
-import img2 from './Assets/img2.jpg'
-import img3 from './Assets/img3.jpg'
-import img4 from './Assets/img4.jpg'
-import img5 from './Assets/img5.jpg'
-import img6 from './Assets/img6.jpg'
-import img7 from './Assets/img7.jpg'
-import img8 from './Assets/img8.jpg'
-import img9 from './Assets/img9.jpg'
+import img1 from './Assets/Images/img1.jpg'
+import img2 from './Assets/Images/img2.jpg'
+import img3 from './Assets/Images/img3.jpg'
+import img4 from './Assets/Images/img4.jpg'
+import img5 from './Assets/Images/img5.jpg'
+import img6 from './Assets/Images/img6.jpg'
+import img7 from './Assets/Images/img7.jpg'
+import img8 from './Assets/Images/img8.jpg'
+import img9 from './Assets/Images/img9.jpg'
 
 // Export data
 export const Data = [
