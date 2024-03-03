@@ -1,3 +1,3 @@
-Project Demo : https://travel-by-react-app.netlify.app/
+Project Demo : https://travel-website-by-react.netlify.app/
 
-![Movie-Webpage-React-master](https://github.com/Nikala11/Movie-Webpage-React/assets/86911025/be760cf2-c9ac-414a-a86d-3629c6fe46bb)
+![Uploading Travel-Webpage-React.png…](src/Assets/Travel-Webpage-React.png)
